@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- Project from https://start.vaadin.com/project/98ffa4bd-ba7a-4d41-aa55-da11e8e5b914 -->
     <groupId>com.example.application</groupId>
-    <artifactId>hilla-crm</artifactId>
+    <artifactId>odalisque-springboot</artifactId>
     <name>hilla-crm</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
